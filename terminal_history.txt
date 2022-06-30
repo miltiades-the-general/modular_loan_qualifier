@@ -1,0 +1,50 @@
+  414  git remote add origin https://github.com/miltiades-the-general/Modularized_Loan_Qualifier.git
+  415  git remote set-url origin https://github.com/miltiades-the-general/Modularized_Loan_Qualifier.git
+  416  git push origin main
+  417  git init 
+  418  git add .
+  419  git remote add origin https://github.com/miltiades-the-general/Modularized_Loan_Qualifier.git
+  420  git set-url remote origin https://github.com/miltiades-the-general/Modularized_Loan_Qualifier.git
+  421  git remote set-url origin https://github.com/miltiades-the-general/Modularized_Loan_Qualifier.git
+  422  git remote -v
+  423  git commit -m "updates to documentation and save_csv"
+  424  git push origin main
+  425  git init -b main
+  426  git add .
+  427  git status
+  428  cd "C:\Users\bengu\Documents\Modularized_Loan_Qualifier\modularized_loan_qualifier"
+  429  git init -b main
+  430  git remote add origin https://github.com/miltiades-the-general/modularized_loan_qualifier.git
+  431  git remote set-url https://github.com/miltiades-the-general/modularized_loan_qualifier.git
+  432  git branch -M main
+  433  git push -u origin main
+  434  git init -b main
+  435  git status
+  436  git add .
+  437  git commit -m "Updated documentation and save_csv function"
+  438  git remote add origin https://github.com/miltiades-the-general/modularized_loan_qualifier.git
+  439  git remote -v
+  440  git remote set-url https://github.com/miltiades-the-general/modularized_loan_qualifier.git
+  441  git remote -v
+  442  git remote set-url origin https://github.com/miltiades-the-general/modularized_loan_qualifier.git
+  443  git push origin main
+  444  cd "C:\Users\bengu\Documents\Modularized_Loan_Qualifier"
+  445  git init -b main
+  446  git add .
+  447  git commit -m "Updates to documentations and save_csv"
+  448  git remote add origin https://github.com/miltiades-the-general/modularized_loan_qualifier.git
+  449  git remote -v
+  450  git push origin main
+  451  git remote set-url https://github.com/miltiades-the-general/modularized_loan_qualifier.git
+  452  git remote set-url origin https://github.com/miltiades-the-general/modularized_loan_qualifier.git
+  453  git push origin main
+  454  cd "C:\Users\bengu\Documents\Modularized_Loan_Qualifier\modularized_loan_qualifier"
+  455  git init -b main
+  456  git add .
+  457  git commit -m "Updates to documentation and save_csv"
+  458  git remote add origin https://github.com/miltiades-the-general/modularized_loan_qualifier.git
+  459  git remote -v
+  460  git push origin main
+  461  cd "C:\Users\bengu\Documents\modular_loan_qual"
+  462  history > 50 terminal_history.txt
+  463  history 50 > terminal_history.txt
